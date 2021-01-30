@@ -6,6 +6,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/supantha-paul-5977041b8/)
 [![CodePen Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/supanthapaul)
 
+## ✍ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- Pinned Repositories -->
 
 ## 📌 Pinned Repositories
