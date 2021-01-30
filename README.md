@@ -5,25 +5,25 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/supanthapaul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/supantha-paul-5977041b8/)
 [![CodePen Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/supanthapaul)
-<hr>
+
 Heya visitor! 👋
 
 I'm a full-stack web developer who also loves making games. Currently getting my feet wet in data science and machine learning. Also interested in digital art and anything technology!
 
 ## ✍ Latest Blog Posts
-<hr>
+
 <!-- BLOG-POST-LIST:START -->
-- [How to choose your first front-end framework without losing your mind](https://dev.to/supanthapaul/how-to-choose-your-first-front-end-framework-without-losing-your-mind-1eee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Pinned Repositories -->
 
 ## 📌 Pinned Repositories
-<hr>
+
 <a href="https://github.com/supanthapaul/questly">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=supanthapaul&repo=questly&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
 </a>
 
+<br>
 <br>
 
 <a href="https://github.com/supanthapaul/markdown-pad">
@@ -31,11 +31,13 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/supanthapaul/pandemic-rush">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=supanthapaul&repo=pandemic-rush&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
 </a>
 
+<br>
 <br>
 
 <a href="https://github.com/supanthapaul/gatsby-blog">
@@ -45,7 +47,7 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 <!-- GitHub Stats -->
 
 ## 📈 GitHub Stats
-<hr>
+
 <a href="https://github.com/supanthapaul">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supanthapaul&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
 </a>
@@ -55,7 +57,6 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 </a>
 
 ## 💼 Skills
-<hr>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E05A47)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=E05A47)
