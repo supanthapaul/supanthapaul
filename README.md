@@ -14,6 +14,7 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 ## ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to choose your first front-end framework without losing your mind](https://dev.to/supanthapaul/how-to-choose-your-first-front-end-framework-without-losing-your-mind-1eee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Pinned Repositories -->
