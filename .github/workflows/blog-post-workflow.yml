@@ -14,4 +14,4 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # rss feed URL/s
-         feed_list: "hhttps://dev.to/feed/supanthapaul"
+         feed_list: "https://dev.to/feed/supanthapaul"
