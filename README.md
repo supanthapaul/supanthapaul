@@ -25,6 +25,13 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 
 ## 📌 Pinned Repositories
 
+<a href="https://github.com/supanthapaul/instashare">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=supanthapaul&repo=instashare&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
 <a href="https://github.com/supanthapaul/questly">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=supanthapaul&repo=questly&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
 </a>
