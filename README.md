@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/supanthapaul)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/supantha-paul-5977041b8/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/supanthapaul)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/supanthapaul)
+<!-- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/supanthapaul) -->
 
 Heya visitor! 👋
 
