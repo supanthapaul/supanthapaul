@@ -53,9 +53,9 @@ I'm a full-stack web developer who also loves making games. Currently getting my
 <br>
 <br>
 
-<a href="https://github.com/supanthapaul/gatsby-blog">
+<!-- <a href="https://github.com/supanthapaul/gatsby-blog">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=supanthapaul&repo=gatsby-blog&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=1A2B34" />
-</a>
+</a> -->
 
 <!-- GitHub Stats -->
 
