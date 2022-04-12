@@ -1,4 +1,4 @@
-![Supantha's GitHub Banner](./assets/banner.png)
+![Supantha's GitHub Banner](https://user-images.githubusercontent.com/33364898/162920329-fcd35def-36ed-4c32-87c2-f4559bfd28a8.png)
 
 <!-- Social badges -->
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/supanthapaul/supanthapaul)](https:braydoncoyer.dev) -->
