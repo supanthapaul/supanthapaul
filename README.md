@@ -10,7 +10,7 @@
 
 Heya visitor! 👋
 
-I'm a full-stack web developer who also loves making games. Currently getting my feet wet in data science and machine learning. Also interested in digital art and anything technology!
+I'm a full-stack web developer who also loves making games. Currently getting my feet wet in blockchain and Web3 technologies. Also interested in digital art and anything technology!
 
 ## ✍ Latest Blog Posts
 
