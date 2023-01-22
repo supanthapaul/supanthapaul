@@ -10,7 +10,7 @@
 
 Heya visitor! 👋
 
-I'm a full-stack web developer who also loves making games. Currently getting my feet wet in blockchain and Web3 technologies. Also interested in digital art and anything technology!
+I'm a software engineer and hobbyist game devloper. I'm currently developing a narrative-driven horror game called [Abashed](https://www.lavapointgames.com/abashed). Also interested in digital art and anything technology!
 
 ## ✍ Latest Blog Posts
 
