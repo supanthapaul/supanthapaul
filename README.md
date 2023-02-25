@@ -90,9 +90,6 @@ I'm a software engineer and hobbyist game devloper. I'm currently developing a n
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=E05A47)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=E05A47)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=E05A47)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=E05A47)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=E05A47)
-![](https://img.shields.io/badge/Code-scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=E05A47)
 
 <br>
 
